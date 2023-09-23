@@ -1,0 +1,15 @@
+---
+layout : post
+title : "I am frustrated because of the chaos"
+---
+
+# I am working on Image Segmentation
+## We do this not because it is easy but because we thought it would be easy
+
+It's been 2 weeks I am working on semantic segmentation. And I just want to give up. I don't even know the basics of image segmentation but still I decided to work on this task for one of my professors. It is a dataset of grapes that I have been tasked with to perfrom image segmentation on. I tried using the codes from paperswithcode.com. I am not able to understand any of it. I am just walking into a void knowing nothing about it. I have given up on the codes already available on github. I am hoing to write it all from scratch. Yes, I think writing whole thing from scratch would be easier than reading someones code online and implementing it on my dataset.
+
+
+## Annotated Images
+The reason why I decided to take this stupid step has 2 reasons. I am feeling I am not learning anything about the basics. Just making a code work does not mean that I will be able to replicate the same results on different dataset in future. 
+
+
